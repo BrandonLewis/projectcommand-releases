@@ -2,10 +2,15 @@
 
 Desktop builds of ProjectCommand, IFC-native project management for heavy civil construction, for Windows and macOS.
 
-Download the newest from [Releases](../../releases/latest).
+## Download 0.7.4
 
-- **Windows:** the setup `.exe` installs for you alone, without admin. The plain `.exe` runs without installing, and does not update itself.
-- **macOS:** open the `.dmg` and drag the app to Applications.
+| You have | Download | |
+|---|---|---|
+| Windows | [ProjectCommand-0.7.4-Windows-Setup.exe](https://github.com/BrandonLewis/projectcommand-releases/releases/download/v0.7.4/ProjectCommand-0.7.4-Windows-Setup.exe) | Installs for you alone, without admin, and keeps itself up to date. |
+| Windows, nothing installed | [ProjectCommand-0.7.4-Windows-Portable.exe](https://github.com/BrandonLewis/projectcommand-releases/releases/download/v0.7.4/ProjectCommand-0.7.4-Windows-Portable.exe) | Runs as it is, from wherever you keep it. |
+| Mac, Apple silicon or Intel | [ProjectCommand-0.7.4-macOS.dmg](https://github.com/BrandonLewis/projectcommand-releases/releases/download/v0.7.4/ProjectCommand-0.7.4-macOS.dmg) | Open it and drag the app to Applications. |
+
+Earlier versions are under [Releases](../../releases).
 
 An installed copy looks here for a newer version when it starts, and from Help > Check for updates.
 
