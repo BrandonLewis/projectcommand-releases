@@ -2,13 +2,13 @@
 
 Desktop builds of ProjectCommand, IFC-native project management for heavy civil construction, for Windows and macOS.
 
-## Download 0.8.1
+## Download 0.8.2
 
 | You have | Download | |
 |---|---|---|
-| Windows | [ProjectCommand-0.8.1-Windows-Setup.exe](https://github.com/BrandonLewis/projectcommand-releases/releases/download/v0.8.1/ProjectCommand-0.8.1-Windows-Setup.exe) | Installs for you alone, without admin, and keeps itself up to date. |
-| Windows, nothing installed | [ProjectCommand-0.8.1-Windows-Portable.exe](https://github.com/BrandonLewis/projectcommand-releases/releases/download/v0.8.1/ProjectCommand-0.8.1-Windows-Portable.exe) | Runs as it is, from wherever you keep it. |
-| Mac, Apple silicon or Intel | [ProjectCommand-0.8.1-macOS.dmg](https://github.com/BrandonLewis/projectcommand-releases/releases/download/v0.8.1/ProjectCommand-0.8.1-macOS.dmg) | Open it and drag the app to Applications. |
+| Windows | [ProjectCommand-0.8.2-Windows-Setup.exe](https://github.com/BrandonLewis/projectcommand-releases/releases/download/v0.8.2/ProjectCommand-0.8.2-Windows-Setup.exe) | Installs for you alone, without admin, and keeps itself up to date. |
+| Windows, nothing installed | [ProjectCommand-0.8.2-Windows-Portable.exe](https://github.com/BrandonLewis/projectcommand-releases/releases/download/v0.8.2/ProjectCommand-0.8.2-Windows-Portable.exe) | Runs as it is, from wherever you keep it. |
+| Mac, Apple silicon or Intel | [ProjectCommand-0.8.2-macOS.dmg](https://github.com/BrandonLewis/projectcommand-releases/releases/download/v0.8.2/ProjectCommand-0.8.2-macOS.dmg) | Open it and drag the app to Applications. |
 
 Earlier versions are under [Releases](../../releases).
 
